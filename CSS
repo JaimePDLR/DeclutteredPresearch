@@ -6,7 +6,7 @@
 @author         Jaime Ponce de León
 ==/UserStyle */
 
-@moz-document domain("presearch.com/search") {
+@-moz-document domain("presearch.com/search") {
 
 
 /* GENERAL SETTINGS */
